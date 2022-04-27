@@ -10,7 +10,7 @@
 <?php
 $txt1 = "Hello there, World !";
 $txt2 = "Have a nice day !";
-$greet = $txt1 . " " . $txt2 echo $greet;?>
+$greet = $txt1 . " " . $txt2 echo $greet;
 echo $greet;?>
 <?php
 echo "<br />";
